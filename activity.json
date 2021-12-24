@@ -1,0 +1,52 @@
+{
+  "name": "ScriptRunner_copy1",
+  "type": "Custom",
+  "dependsOn": [
+    {
+      "activity": "DefaultCopy",
+      "dependencyConditions": [
+        "Succeeded"
+      ]
+    }
+  ],
+  "policy": {
+    "timeout": "7.00:00:00",
+    "retry": 0,
+    "retryIntervalInSeconds": 30,
+    "secureOutput": false,
+    "secureInput": false
+  },
+  "userProperties": [
+
+  ],
+  "typeProperties": {
+    "command": "./ScriptRunner js script \"function mapping(records){ records.name='abc'; return records;}\" mapperScript",
+    "resourceLinkedService": {
+      "type": "LinkedServiceReference",
+      "referenceName": "AzureStorageLinkedService"
+    },
+    "folderPath": "connectors-dev/batch",
+    "extendedProperties": {
+      "folderPath": "/dlz-user-container/mailchimp",
+      "filePath": "page-0"
+    },
+    "referenceObjects": {
+      "linkedServices": [
+
+      ],
+      "datasets": [
+        {
+          "type": "DatasetReference",
+          "parameters": {
+
+          },
+          "referenceName": "MailchimpDLZb92ee0b99b434fbda063d6712a3c7e11"
+        }
+      ]
+    }
+  },
+  "linkedServiceName": {
+    "type": "LinkedServiceReference",
+    "referenceName": "azureBatch"
+  }
+}

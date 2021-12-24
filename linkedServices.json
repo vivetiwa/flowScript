@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "annotations": [
+
+      ],
+      "type": "AzureBlobStorage",
+      "typeProperties": {
+        "sasUri": "<replaceMe>",
+        "removeDupeQuestionMarkInSasUri": true,
+        "disableLinkLocalIPAddress": true,
+        "normalizeBinaryFolderPath": true
+      }
+    },
+    "name": "GarageWeekSink"
+  }
+]
