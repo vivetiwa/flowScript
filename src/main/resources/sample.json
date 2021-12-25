@@ -1,0 +1,784 @@
+{
+   "emails": [
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "cff65fb4c5f5828666ad846443720efd",
+           "email_address": "vivekt2134@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/cff65fb4c5f5828666ad846443720efd",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/cff65fb4c5f5828666ad846443720efd",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "a16b82774b211afaf60902d1afd8abc5",
+           "email_address": "vivek9935890967@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/a16b82774b211afaf60902d1afd8abc5",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/a16b82774b211afaf60902d1afd8abc5",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "0d567f517995d6ba1afdd5c586b78581",
+           "email_address": "vivekt@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/0d567f517995d6ba1afdd5c586b78581",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/0d567f517995d6ba1afdd5c586b78581",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "2fa220a3ef044a6a002a2caecfad52c1",
+           "email_address": "vivekt1@gmail.com",
+           "activity": [
+               {
+                   "action": "bounce",
+                   "type": "hard",
+                   "timestamp": "2021-09-27T09:26:17+00:00"
+               }
+           ],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/2fa220a3ef044a6a002a2caecfad52c1",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/2fa220a3ef044a6a002a2caecfad52c1",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "a2fc7cba0b4dd3f1e7f0156b86ec6138",
+           "email_address": "vivekt2@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/a2fc7cba0b4dd3f1e7f0156b86ec6138",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/a2fc7cba0b4dd3f1e7f0156b86ec6138",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "c6359c5018b9dea7f91bb5edfa89b904",
+           "email_address": "vivekt3@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/c6359c5018b9dea7f91bb5edfa89b904",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/c6359c5018b9dea7f91bb5edfa89b904",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "d01e6af968ec38fc4685b95a7ee7c6ae",
+           "email_address": "vivekt4@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/d01e6af968ec38fc4685b95a7ee7c6ae",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/d01e6af968ec38fc4685b95a7ee7c6ae",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "7ae33ff174dc1547754c77d9152d4673",
+           "email_address": "vivekt5@gmail.com",
+           "activity": [
+               {
+                   "action": "bounce",
+                   "type": "hard",
+                   "timestamp": "2021-09-27T09:26:17+00:00"
+               }
+           ],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/7ae33ff174dc1547754c77d9152d4673",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/7ae33ff174dc1547754c77d9152d4673",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "3d2d46a7d15c2a13979da7012f101bb9",
+           "email_address": "vivekt6@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/3d2d46a7d15c2a13979da7012f101bb9",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/3d2d46a7d15c2a13979da7012f101bb9",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "f7b1dab8f1e25dbdc562ff76dc853c97",
+           "email_address": "vivekt7@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/f7b1dab8f1e25dbdc562ff76dc853c97",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/f7b1dab8f1e25dbdc562ff76dc853c97",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "2faa2349b6d8a95b81331e736dd60752",
+           "email_address": "vivekt8@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/2faa2349b6d8a95b81331e736dd60752",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/2faa2349b6d8a95b81331e736dd60752",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "5223e856293bfe720477c041ab0f2d45",
+           "email_address": "vivekt9@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/5223e856293bfe720477c041ab0f2d45",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/5223e856293bfe720477c041ab0f2d45",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "ae149cead655be328cb4342d9de9b7eb",
+           "email_address": "vivekt10@gmail.com",
+           "activity": [
+               {
+                   "action": "bounce",
+                   "type": "hard",
+                   "timestamp": "2021-09-27T09:26:17+00:00"
+               }
+           ],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/ae149cead655be328cb4342d9de9b7eb",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/ae149cead655be328cb4342d9de9b7eb",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "a3fb937ee2dea9652223bef34528c35c",
+           "email_address": "vivekt11@gmail.com",
+           "activity": [
+               {
+                   "action": "bounce",
+                   "type": "hard",
+                   "timestamp": "2021-09-27T09:26:17+00:00"
+               }
+           ],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/a3fb937ee2dea9652223bef34528c35c",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/a3fb937ee2dea9652223bef34528c35c",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "7c457ff1a95be83570a0292fb26a89b6",
+           "email_address": "vivekt12@gmail.com",
+           "activity": [
+               {
+                   "action": "bounce",
+                   "type": "hard",
+                   "timestamp": "2021-09-27T09:26:17+00:00"
+               }
+           ],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/7c457ff1a95be83570a0292fb26a89b6",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/7c457ff1a95be83570a0292fb26a89b6",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "b4dfffdc3992b391b61374a7670d2592",
+           "email_address": "vivekt13@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/b4dfffdc3992b391b61374a7670d2592",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/b4dfffdc3992b391b61374a7670d2592",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "686e426322506a86be3a64647d5d286a",
+           "email_address": "vivekt14@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/686e426322506a86be3a64647d5d286a",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/686e426322506a86be3a64647d5d286a",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "eba566ff40400d7a48b03c08f0637f1e",
+           "email_address": "vivekt15@gmail.com",
+           "activity": [
+               {
+                   "action": "bounce",
+                   "type": "hard",
+                   "timestamp": "2021-09-27T09:26:17+00:00"
+               }
+           ],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/eba566ff40400d7a48b03c08f0637f1e",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/eba566ff40400d7a48b03c08f0637f1e",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "a5be0d143ddb440f52e40fc90f3d9309",
+           "email_address": "vivekt16@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/a5be0d143ddb440f52e40fc90f3d9309",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/a5be0d143ddb440f52e40fc90f3d9309",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "e3258f467325d0d7cc4f1c4c0ae39b66",
+           "email_address": "vivekt17@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/e3258f467325d0d7cc4f1c4c0ae39b66",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/e3258f467325d0d7cc4f1c4c0ae39b66",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "df039c9d53cd435a675bfc31fea8972d",
+           "email_address": "vivekt18@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/df039c9d53cd435a675bfc31fea8972d",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/df039c9d53cd435a675bfc31fea8972d",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "3f2a7516c546bf0108ca95564076110e",
+           "email_address": "vivekt19@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/3f2a7516c546bf0108ca95564076110e",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/3f2a7516c546bf0108ca95564076110e",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "3e0604605a7465339ab0a8e3024ecc23",
+           "email_address": "vivekt20@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/3e0604605a7465339ab0a8e3024ecc23",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/3e0604605a7465339ab0a8e3024ecc23",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "0e8fb14645c479e026f3e943e7f75d18",
+           "email_address": "vivekt21@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/0e8fb14645c479e026f3e943e7f75d18",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/0e8fb14645c479e026f3e943e7f75d18",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "73216d7f0924e6fcb76b4706b0ab1c60",
+           "email_address": "vivekt232@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/73216d7f0924e6fcb76b4706b0ab1c60",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/73216d7f0924e6fcb76b4706b0ab1c60",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       },
+       {
+           "campaign_id": "c66a200cda",
+           "list_id": "10c097ca71",
+           "list_is_active": true,
+           "email_id": "a6ce3446ff422406e50dfb56bdde0eb0",
+           "email_address": "vivekt1234@gmail.com",
+           "activity": [],
+           "_links": [
+               {
+                   "rel": "parent",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+               },
+               {
+                   "rel": "self",
+                   "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity/a6ce3446ff422406e50dfb56bdde0eb0",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/Response.json"
+               },
+               {
+                   "rel": "member",
+                   "href": "https://us6.api.mailchimp.com/3.0/lists/10c097ca71/members/a6ce3446ff422406e50dfb56bdde0eb0",
+                   "method": "GET",
+                   "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json"
+               }
+           ]
+       }
+   ],
+   "campaign_id": "c66a200cda",
+   "total_items": 26,
+   "_links": [
+       {
+           "rel": "parent",
+           "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda",
+           "method": "GET",
+           "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/Response.json"
+       },
+       {
+           "rel": "self",
+           "href": "https://us6.api.mailchimp.com/3.0/reports/c66a200cda/email-activity",
+           "method": "GET",
+           "targetSchema": "https://us6.api.mailchimp.com/schema/3.0/Definitions/Reports/EmailActivity/CollectionResponse.json"
+       }
+   ]
+}
