@@ -8,5 +8,5 @@ function mapping(records) {
     });
 
     console.log(JSON.stringify(transformations));
-    return transformations;
+    return JSON.stringify(transformations);
 }
